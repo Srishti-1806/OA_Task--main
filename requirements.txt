@@ -1,0 +1,21 @@
+# Dependencies for Josh Talks AI Researcher Intern Assignment
+
+# Core ML
+transformers>=4.36.0
+datasets>=2.16.0
+evaluate>=0.4.0
+accelerate>=0.25.0
+torch>=2.0.0
+
+# Audio processing
+soundfile>=0.12.0
+librosa>=0.10.0
+
+# Metrics
+jiwer>=3.0.0
+
+# Text processing
+python-Levenshtein>=0.23.0
+
+# Utilities
+tqdm>=4.65.0
