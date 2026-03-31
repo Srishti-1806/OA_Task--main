@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env
+
+# Project specific
+data/
+model/
+results/
+*.json
+*.csv
+!requirements.txt
+!FT Data - data.csv
