@@ -1,6 +1,5 @@
-# Josh Talks AI Researcher Intern - ASR Assignment
 
-This repository contains the completed assignment for the AI Researcher Intern position at Josh Talks. The project focuses on Hindi Automatic Speech Recognition (ASR), data cleanup pipelines, spelling classification, and advanced error metrics.
+This repository contains the completed assignment. The project focuses on Hindi Automatic Speech Recognition (ASR), data cleanup pipelines, spelling classification, and advanced error metrics.
 
 ## Project Overview
 
