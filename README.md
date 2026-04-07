@@ -71,4 +71,4 @@ Alternatively, you can run individual modules locally:
 ---
 
 
-*Created by the Srishti Mishra for the Josh Talks AI Researcher Intern Assignment.*
+*Created by the Srishti Mishra*
